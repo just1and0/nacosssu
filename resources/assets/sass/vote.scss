@@ -1,0 +1,61 @@
+.hold-banner {
+    margin-top: 15%;
+    h1 {
+        font-size: 600%;
+    }
+    h2 {
+        font-size: 600%;
+    }
+}
+
+@media (max-width: 768px) {
+    .hold-banner {
+        margin-top: 1%;
+        h1 {
+            font-size: 600%;
+        }
+        h2 {
+            font-size: 600%;
+        }
+    }
+}
+
+.form {
+    p {
+        font-size: 80%;
+    }
+}
+
+.countdown {
+    margin-top: 80px;
+    h1 {
+        letter-spacing: 20px;
+    }
+}
+
+body {
+    background-color: black;
+    color: #999;
+}
+
+.voting-h {
+    letter-spacing: 7px;
+}
+
+.voteimg {
+    width: 90%;
+    height: 200px;
+}
+
+.hold-banner1 {
+    margin-top: 18%;
+}
+
+.barr {
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+}
+
+.bar1 {
+    border-right: 1px solid white;
+}
